@@ -1,0 +1,5 @@
+main:
+    - title: "CV"
+      url: https://madivanhorn.github.io/assets/cv-madison-van-horn.pdf
+    - title: "Publications and Talks"
+      url: /publications/
