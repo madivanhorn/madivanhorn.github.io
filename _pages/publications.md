@@ -1,3 +1,10 @@
+---
+permalink: /publications/
+title: "Publications and Talks"
+layout: single
+author_profile: true
+---
+
 **"CFC26: Building Evaluations for Deployment in Sonar-Based Fish Counting"**
 
 Madison Van Horn, Suzanne Stathatos, Sevan Brodjian, Justin Kay, Kai Van Brunt, Erik Young, Sara Beery, Pietro Perona, Michael Hobley <br> NeurIPS 2026 <br> [Paper](https://arxiv.org/abs/2610.22549)
